@@ -1,2 +1,1 @@
-# Adebimpe-s_portfolio
-Analytics portfolio
+## Exploratory Data Analysis of World Development Indicators
